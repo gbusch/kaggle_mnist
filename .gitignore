@@ -1,3 +1,5 @@
 input/
 tmp/
 MNIST-data/
+*.csv
+*.npz
